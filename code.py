@@ -1,5 +1,5 @@
-def Print(b,default="BObby"):
-    print("HI ",b)
+def Print(x ="Bobby"):
+    print("HI ",x)
 
 Print("Bose")
 print("Bose")
